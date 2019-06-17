@@ -1,0 +1,70 @@
+body
+{
+	background:#CCC;
+	body { width: 974px; margin: 0 auto; }
+}
+
+#Header a:hover
+{
+	color:#FFF;
+}
+#bg-img
+
+{
+	 background: url("laptop.jpg") no-repeat center center fixed;
+	
+	background-size:100%;
+	min-height:100%;
+
+	background-repeat:no-repeat;
+	min-height:500px;
+}
+#AboutDATA
+{
+	margin-top:-200px;
+	background :lightgrey;
+	
+}
+#Academic
+{
+	background:#CCC;
+}
+#Academic span
+{
+	padding:10px 20px 10px 20px;
+}
+#Academic hr
+{
+	border-width:2px;
+
+	margin-top:06px;
+}
+#Extra-Curricular span
+{
+	padding:10px 20px 10px 20px;
+}
+#Extra-Curricular hr
+{
+border-width:2px;
+
+	margin-top:06px;
+}
+#Extra-Curricular .card
+{
+	border-top:03px solid blue;
+}
+#Contact span
+{
+	padding:10px 20px 10px 20px;
+}
+#Contact hr
+{
+	border-width:2px;
+
+	margin-top:06px;
+}
+		
+
+	
+
+
